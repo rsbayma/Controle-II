@@ -1,9 +1,8 @@
-Introdução aos sistemas de controle digital
+# Introdução aos sistemas de controle digital
 
-Tópico dentro do curso de Sistemas de Controle II (bacharelado em Eng. Elétrica, currículo atual)
+Sistemas de Controle II (bacharelado em Eng. Elétrica, currículo 2012)
 
-Programa principal
-
+**Programa principal**
 - Motivação para o controle digital
 - Elementos de uma malha de controle digital
 - Conversão AD - fundamentos de análise de sinal
